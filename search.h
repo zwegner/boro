@@ -1,0 +1,1 @@
+void search(BOARD *board);
